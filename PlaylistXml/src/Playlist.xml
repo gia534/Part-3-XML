@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Playlist SYSTEM "PlaylistDocTypeDef.dtd">
+<Playlist>
+    <song>
+        <playlistNumber>1</playlistNumber>
+        <title>History Repeats</title>
+        <artist>Howard, Brittany</artist>
+        <album>Jamie</album>
+        <genre>Alternative/Indie</genre>
+        <releaseDate>2019</releaseDate>
+    </song>
+    <song>
+        <playlistNumber>2</playlistNumber>
+        <title>Wilson (Expensive Mistakes)</title>
+        <artist>Fall Out Boy</artist>
+        <album>Mania</album>
+        <genre>Rock / Pop Rock / Alternative/Indie</genre>
+        <releaseDate>2018</releaseDate>
+    </song>
+
+    <song>
+        <playlistNumber>3</playlistNumber>
+        <title>Crash Into Me</title>
+        <artist>Dave Matthews Band</artist>
+        <album>Crash</album>
+        <genre>Rock</genre>
+        <releaseDate>1996</releaseDate>
+    </song>
+
+    <song>
+        <playlistNumber>4</playlistNumber>
+        <title>Barbies</title>
+        <artist>P!nk</artist>
+        <album>Beautiful Trauma</album>
+        <genre>Pop</genre>
+        <releaseDate>2019</releaseDate>
+    </song>
+
+    <song>
+        <playlistNumber>5</playlistNumber>
+        <title>Doctor</title>
+        <artist>Alanis Morissette</artist>
+        <album>Jagged Little Pill</album>
+        <genre>Alternative Rock</genre>
+        <releaseDate>1995</releaseDate>
+    </song>
+
+    <song>
+        <playlistNumber>6</playlistNumber>
+        <title>Iris</title>
+        <artist>Goo Goo Dolls</artist>
+        <album>Dizzy Up The Girl</album>
+        <genre>Alternative Rock / Soft Rock</genre>
+        <releaseDate>1998</releaseDate>
+    </song>
+
+    <song>
+        <playlistNumber>7</playlistNumber>
+        <title>I Am Here</title>
+        <artist>P!nk</artist>
+        <album>Beautiful Trauma</album>
+        <genre>Pop</genre>
+        <releaseDate>2019</releaseDate>
+    </song>
+
+    <song>
+        <playlistNumber>8</playlistNumber>
+        <title>Sleeping In</title>
+        <artist>All Time Low</artist>
+        <album>Wake Up, Sunshine</album>
+        <genre>Alternative / Indie</genre>
+        <releaseDate>2020</releaseDate>
+    </song>
+
+    <song>
+        <playlistNumber>9</playlistNumber>
+        <title>Sound &amp; Color</title>
+        <artist>Alabama Shakes</artist>
+        <album>Jamie</album>
+        <genre>Alternative / Indie / Pop</genre>
+        <releaseDate>2019</releaseDate>
+    </song>
+
+    <song>
+        <playlistNumber>10</playlistNumber>
+        <title>Stay High</title>
+        <artist>Howard, Brittany</artist>
+        <album>Jamie</album>
+        <genre>Alternative / Indie</genre>
+        <releaseDate>2019</releaseDate>
+    </song>
+
+    <song>
+        <playlistNumber>11</playlistNumber>
+        <title>Better Life</title>
+        <artist>P!nk</artist>
+        <album>Beautiful Trauma</album>
+        <genre>Pop</genre>
+        <releaseDate>2019</releaseDate>
+    </song>
+
+    <song>
+        <playlistNumber>12</playlistNumber>
+        <title>Bad Girls Don't Cry</title>
+        <artist>The Night Game</artist>
+        <album>The Night Game</album>
+        <genre>Alternative/Indie</genre>
+        <releaseDate>2018</releaseDate>
+    </song>
+
+    <song>
+        <playlistNumber>13</playlistNumber>
+        <title>Hand Of God - Outro</title>
+        <artist>Jon Bellion</artist>
+        <album>The Human Condition</album>
+        <genre>Pop</genre>
+        <releaseDate>2016</releaseDate>
+    </song>
+
+    <song>
+        <playlistNumber>14</playlistNumber>
+        <title>Kevin</title>
+        <artist>Macklemore and Ryan Lewis featuring Leon Bridges</artist>
+        <album>Beautiful Trauma</album>
+        <genre>Hip Hop / Rap</genre>
+        <releaseDate>2016</releaseDate>
+    </song>
+
+    <song>
+        <playlistNumber>15</playlistNumber>
+        <title>Rise Up</title>
+        <artist>Andra day</artist>
+        <album>Cheers to the Fall</album>
+        <genre>R&amp;B/Soul</genre>
+        <releaseDate>2015</releaseDate>
+    </song>
+
+    <song>
+        <playlistNumber>16</playlistNumber>
+        <title>Ironic</title>
+        <artist>Alanis Morissette</artist>
+        <album>Jagged Little Pill</album>
+        <genre>Alternative Rock</genre>
+        <releaseDate>1995</releaseDate>
+    </song>
+</Playlist>

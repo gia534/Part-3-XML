@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone ="yes" ?>
+<!DOCTYPE Playlist[
+        <!ELEMENT Playlist (song+)>
+        <!ELEMENT song (title+, artist+, album+, genre+, releaseDate+)>
+        <!ELEMENT title (#PCDATA)>
+        <!ELEMENT artist (#PCDATA)>
+        <!ELEMENT album (#PCDATA)>
+        <!ELEMENT genre (#PCDATA)>
+        <!ELEMENT releaseDate (#PCDATA)>
+]>
